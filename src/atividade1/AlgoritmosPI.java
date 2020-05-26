@@ -11,7 +11,11 @@ import java.io.IOException;
 
 /**
  *
- * @author João Vitor Alves, Caio Moreno, Gustavo Pitombeira 
+ * @author João Vitor Alves
+ * @author Caio Vinicius Sousa Moreno
+ * @author Gustavo Fonseca Pitombeira
+ * 
+ 
  */
 public class AlgoritmosPI {
 
